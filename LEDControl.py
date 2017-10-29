@@ -13,7 +13,7 @@ pnconfig.ssl = False
 pubnub = PubNub(pnconfig)
 
 led = LED(4)
-led.off()
+
 
 def publish_callback(result,status):
     pass

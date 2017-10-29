@@ -1,3 +1,0 @@
-pytest-asyncio==0.5.0
-tornado
-aiohttp
